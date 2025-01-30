@@ -1,6 +1,6 @@
 
 
-[![Ssupercoder](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Ssupercoder](https://img.shields.io/badge/Ssupercoder-github-blue?logo=github)](https://github.com/Ssupercoder)
 
 He is currently pursuing a Master's Degree in Wuhan University, China.
 
