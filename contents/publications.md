@@ -8,5 +8,5 @@
 
 - <strong>L Xin<strong>,Z Jiang,J Li.et.al.Approach to TimeGAN-enhanced spatio-temporal data mining for decoupling fossil energy consumption and economic development.In Revision.Sustainability
 
-- <strong>L Xin<strong>,P Xie,et.al.Transfer learning enables predictions in soil-borne diseases.Publieshed
+- <strong>L Xin<strong>,P Xie,et.al.Transfer learning enables predictions in soil-borne diseases.Publieshed.Soil Ecological Letter
 

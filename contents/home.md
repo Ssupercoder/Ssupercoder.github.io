@@ -7,6 +7,9 @@ He is currently pursuing a Master's Degree in Wuhan University, China.
 #### Email
 2835838600@qq.com
 
+#### Wechat
+Xx01_111
+
 #### Education
 M.E., Wuhan University, \
 B.E., Nanjing Agriculture University, .

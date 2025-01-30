@@ -2,5 +2,7 @@
 
 - Second-prize Scholarship of NJAU.
 
+- Freshman Scholarship of WHU.
 
+- Enterprise Scholarship of NJAU.
 
