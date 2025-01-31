@@ -15,5 +15,5 @@ M.E., Wuhan University, \
 B.E., Nanjing Agriculture University, .
 
 #### Research Interests
-NLP,Vision Language Multimodel,AI4Sci(If you would like to discuss potential collaborations or learn more about my work, please feel free to contact me.)欢迎就上述方向的指导或合作，随时欢迎通过微信邮箱与我联系！
+NLP,Vision Language Multimodel,AI4Sci(If you would like to discuss potential collaborations or learn more about my work, please feel free to contact me.)欢迎就上述方向的指导或合作，随时欢迎通过微信或邮箱与我联系！
 
