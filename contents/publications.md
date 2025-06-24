@@ -1,5 +1,5 @@
 - <strong>L Xin</strong>,Z Kong.et.al.KD-CPT: A Knowledge-Driven Cellular Phenotypic Transdifferentiation Model.Accept. <strong>ICML 2025<strong> (CFF-A)
-- Z.Kong,Y Li*,F Zeng,<strong>L Xin<strong>.et.al.Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality.Under review. <strong>NIPS 2025<strong> (CFF-A),Github 100+stars
+- Z Kong,Y Li*,F Zeng,<strong>L Xin<strong>.et.al.Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality.Under review. <strong>NIPS 2025<strong> (CFF-A),Github 100+stars
 
 - Z Liu*,S Li*,Z Chen*,<strong>L Xin<strong>.et.al.Life-Code: Central Dogma Modeling with Multi-Omics Sequence Unification.Under Review.<strong>ICML 2025<strong> (CFF-A)
 
