@@ -1,3 +1,5 @@
+- <strong>L Xin</strong>,Z Zhang.et.al.Emo-CoT: A Video Chain-of-Thought Framework for Autism Recognition Based on Facial Expression Recognition.Under Review. <strong>ACM MM 2026<strong> (CCF-A)
+
 - <strong>L Xin</strong>,Z Wang.et.al.UniAR: A Unified Framework for Autism Recognition Enhanced by Multi-View
 Prompt Learning.Under Review. <strong>IJCAI 2026<strong> (CCF-A)
 
