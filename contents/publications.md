@@ -1,7 +1,7 @@
 - <strong>L Xin</strong>,Z Wang.et.al.UniAR: A Unified Framework for Autism Recognition Enhanced by Multi-View
 Prompt Learning.Under Review. <strong>IJCAI 2026<strong> (CCF-A)
 
-- <strong>L Xin</strong>,Z Kong.et.al.DualCPT: Dual-branch Modeling for Cellular Phenotype Transition.Accept. <strong>AAAI 2026<strong> (CFF-A)
+- <strong>L Xin</strong>,Z Kong.et.al.DualCPT: Dual-branch Modeling for Cellular Phenotype Transition.Accept. <strong>AAAI 2026<strong> (CCF-A)
 - <strong>L Xin</strong>,Z Kong.et.al.KD-CPT: A Knowledge-Driven Cellular Phenotypic Transdifferentiation Model.Accept. <strong>ICML 2025<strong> (CCF-A)
   
 - Z Kong,Y Li*,F Zeng,<strong>L Xin<strong>.et.al.Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality.Under review. <strong>ACL 2026<strong> (CCF-A),Github 300+stars
