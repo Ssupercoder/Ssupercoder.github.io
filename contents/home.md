@@ -19,7 +19,7 @@ NLP,Vision Language Multimodel,AI4Sci(If you would like to discuss potential col
 
 #### Work Experience
 2024.09-2024.11 TCL Industrial Research Algorithm Intern Institute Research Topic: Multimodal Quality Inspection\
-2025.04-2025.09 MeiTuan Summer Intern Research Topic:Recommendation System\
+2025.04-2025.09 MeiTuan Summer Intern Research Topic: Recommendation System\
 2025.12-2026.02 Dewu Algorithm Engineer Research Topic：Generative Recommendation System（HyTRec，EMNLP2026）\
 2026.02-present Tecent Research Cooperation Research Topic：Generative Recommendation System
 #### Academic Services
