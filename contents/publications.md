@@ -1,5 +1,5 @@
 - CJ Jiang,..,<strong>L Xin</strong>.et.al.TruthEYE: Pushing the Frontier of Synthetic Image Detection via
-Verifiable Interleaved Reasoning.Under Review. <strong>TMM<strong> (CORE-A)
+Verifiable Interleaved Reasoning.Under Review. <strong>TMM<strong> (CCF-A)
 
 - <strong>L Xin</strong>,Y Zheng.et.al.HyTRec: A Hybrid Temporal-Aware Attention Architecture for Long Behavior Sequential Recommendation.Under Review. <strong>EMNLP 2026<strong> (Tsinghua-A)
 
