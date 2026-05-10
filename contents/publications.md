@@ -1,12 +1,14 @@
+- CJ Jiang,..,<strong>L Xin</strong>.et.al.Think with Structured Graphs: Structure Data
+Distillation for Chart and Visual-Tabular Reasoning.Under Review. <strong>NIPS<strong> (CCF-A)
 - CJ Jiang,..,<strong>L Xin</strong>.et.al.TruthEYE: Pushing the Frontier of Synthetic Image Detection via
 Verifiable Interleaved Reasoning.Under Review. <strong>TMM<strong> (CCF-A)
 
-- <strong>L Xin</strong>,Y Zheng.et.al.HyTRec: A Hybrid Temporal-Aware Attention Architecture for Long Behavior Sequential Recommendation.Under Review. <strong>EMNLP 2026<strong> (Tsinghua-A)
+- <strong>L Xin</strong>,Y Zheng.et.al.HyTRec: A Hybrid Temporal-Aware Attention Architecture for Long Behavior Sequential Recommendation.Under Review. <strong>NIPS 2026<strong> (CCF-A)
 
 - <strong>L Xin</strong>,Z Zhang.et.al.Emo-CoT: A Video Chain-of-Thought Framework for Autism Recognition Based on Facial Expression Recognition.Under Review. <strong>ACM MM 2026<strong> (CCF-A)
 
 - <strong>L Xin</strong>,Z Wang.et.al.UniAR: A Unified Framework for Autism Recognition Enhanced by Multi-View
-Prompt Learning.Under Review. <strong>IJCAI 2026<strong> (CCF-A)
+Prompt Learning.Under Review. <strong>ACM MM 2026<strong> (CCF-A)
 
 - <strong>L Xin</strong>,Z Kong.et.al.DualCPT: Dual-branch Modeling for Cellular Phenotype Transition.Accept. <strong>AAAI 2026<strong> (CCF-A)
 - <strong>L Xin</strong>,Z Kong.et.al.KD-CPT: A Knowledge-Driven Cellular Phenotypic Transdifferentiation Model.Accept. <strong>ICML 2025<strong> (CCF-A)
