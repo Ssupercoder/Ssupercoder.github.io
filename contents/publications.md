@@ -1,3 +1,4 @@
+- <strong>L Xin</strong>,B Gu.et.al.UniMoMo: Token Merging-Based MoE Acceleration for Large Recommendation Models.Under Review. <strong>AAAI 2027<strong> (CCF-A)
 - CJ Jiang,..,<strong>L Xin</strong>.et.al.Think with Structured Graphs: Structure Data
 Distillation for Chart and Visual-Tabular Reasoning.Under Review. <strong>NIPS<strong> (CCF-A)
 - CJ Jiang,..,<strong>L Xin</strong>.et.al.TruthEYE: Pushing the Frontier of Synthetic Image Detection via
