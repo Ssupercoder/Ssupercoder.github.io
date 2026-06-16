@@ -4,7 +4,7 @@ Distillation for Chart and Visual-Tabular Reasoning.Under Review. <strong>NIPS<s
 - CJ Jiang,..,<strong>L Xin</strong>.et.al.TruthEYE: Pushing the Frontier of Synthetic Image Detection via
 Verifiable Interleaved Reasoning.Under Review. <strong>TMM<strong> (CCF-A)
 
-- <strong>L Xin</strong>,Y Zheng.et.al.HyTRec: A Hybrid Temporal-Aware Attention Architecture for Long Behavior Sequential Recommendation.Under Review. <strong>NIPS 2026<strong> (CCF-A)
+- <strong>L Xin</strong>,Y Zheng.et.al.HyTRec: A Hybrid Temporal-Aware Attention Architecture for Long Behavior Sequential Recommendation.Under Review. <strong>NIPS 2026<strong> (CCF-A)<strong>HyTRec is cited and adopted by Kuaishou</strong>
 
 - <strong>L Xin</strong>,Z Kong.et.al.Emo-CoT: A Video Chain-of-Thought Framework for Autism Recognition Based on Facial Expression Recognition.Under Review. <strong>EMNLP 2026<strong> (Tsinghua-A)
 
