@@ -23,4 +23,4 @@ NLP,Vision Language Multimodel,Generative Recommendation Model(If you would like
 2025.12-2026.02 Dewu Algorithm Engineer Research Topic：Generative Recommendation System（HyTRec，EMNLP2026）\
 2026.02-present Tecent Research Cooperation Research Topic：Generative Recommendation System
 #### Academic Services
-Conference Reviewer: NeurIPS (2024，2025)，AAAI（2026），ICML（2025）
+Conference Reviewer: NeurIPS (2024，2025)，AAAI（2026,2027），ICML（2025）
