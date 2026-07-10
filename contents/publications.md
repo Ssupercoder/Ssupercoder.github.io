@@ -9,7 +9,7 @@ Verifiable Interleaved Reasoning.Under Review. <strong>TMM<strong> (CCF-A)
 - <strong>L Xin</strong>,Z Kong.et.al.Emo-CoT: A Video Chain-of-Thought Framework for Autism Recognition Based on Facial Expression Recognition.Under Review. <strong>EMNLP 2026<strong> (Tsinghua-A)
 
 - <strong>L Xin</strong>,Z Wang.et.al.UniAR: A Unified Framework for Autism Recognition Enhanced by Multi-View
-Prompt Learning.Under Review. <strong>ACM MM 2026<strong> (CCF-A)
+Prompt Learning.Accept. <strong>ACM MM 2026<strong> (CCF-A)
 
 - <strong>L Xin</strong>,Z Kong.et.al.DualCPT: Dual-branch Modeling for Cellular Phenotype Transition.Accept. <strong>AAAI 2026<strong> (CCF-A)
 - <strong>L Xin</strong>,Z Kong.et.al.KD-CPT: A Knowledge-Driven Cellular Phenotypic Transdifferentiation Model.Accept. <strong>ICML 2025<strong> (CCF-A)
