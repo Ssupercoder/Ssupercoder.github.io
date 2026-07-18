@@ -21,6 +21,6 @@ NLP,Vision Language Multimodel,Generative Recommendation Model(If you would like
 2024.09-2024.11 TCL Industrial Research Algorithm Intern Institute Research Topic: Multimodal Quality Inspection\
 2025.04-2025.09 MeiTuan Summer Intern Research Topic: Recommendation System\
 2025.12-2026.02 Dewu Algorithm Engineer Research Topic：Generative Recommendation System（HyTRec，EMNLP2026）\
-2026.02-present Tecent Research Cooperation Research Topic：Generative Recommendation System
+2026.02-2026.06 Tecent Research Cooperation Research Topic：Generative Recommendation System
 #### Academic Services
 Conference Reviewer: NeurIPS (2024，2025)，AAAI（2026,2027），ICML（2025）
