@@ -7,9 +7,6 @@ I am currently working at Kuaishou in Beijing.
 #### Email
 2835838600@qq.com
 
-#### Wechat
-Xx01_111
-
 #### Education
 M.E., Wuhan University, \
 B.E., Nanjing Agriculture University, .
