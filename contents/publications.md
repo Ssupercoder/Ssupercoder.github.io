@@ -1,4 +1,4 @@
-- Ke Cheng,..,<strong>L Xin</strong>,..,Jie Jiang.et.al.The Token Before the Value Is the Key: How Hybrid Architectures Organize Induction Circuits,Under Review,TPAMI(Tecent AMS Lab)
+- Ke Cheng,..,<strong>L Xin</strong>,..,Jie Jiang.et.al.The Token Before the Value Is the Key: How Hybrid Architectures Organize Induction Circuits,Under Review,TPAMI(Tencent AMS Lab)
 - <strong>L Xin</strong>,B Gu.et.al.UniMoMo: Token Merging-Based MoE Acceleration for Large Recommendation Models.Under Review. <strong>KDD 2027<strong> (CCF-A)
 - CJ Jiang,..,<strong>L Xin</strong>.et.al.Think with Structured Graphs: Structure Data
 Distillation for Chart and Visual-Tabular Reasoning.Under Review. <strong>NIPS<strong> (CCF-A)
